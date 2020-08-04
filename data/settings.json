@@ -13,6 +13,10 @@
       "section": "Регламент",
       "topics": [
         {
+          "title": "Политика по отпускам",
+          "slug": "vacation-policy"
+        },
+        {
           "title": "Отпуска",
           "slug": "vacation-policy"
         },
