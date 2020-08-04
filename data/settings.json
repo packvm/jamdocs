@@ -1,10 +1,10 @@
 {
   "sidebar": [
     {
-      "section": "Introduction",
+      "section": "Вступление",
       "topics": [
         {
-          "title": "Getting started",
+          "title": "Начало работы",
           "slug": "getting-started"
         }
       ]
