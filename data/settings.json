@@ -10,11 +10,11 @@
       ]
     },
     {
-      "section": "Setup",
+      "section": "Регламент",
       "topics": [
         {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
+          "title": "Отпуска",
+          "slug": "vacation-policy"
         },
         {
           "title": "Forestry CMS",
